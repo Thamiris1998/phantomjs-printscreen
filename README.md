@@ -6,6 +6,6 @@ Download PhantomJS
 
 http://phantomjs.org/download.html
 
-Important
+Importante
 
 Necessário mudar o diretório do driver no código(System.setProperty) para o diretório escolhido.
